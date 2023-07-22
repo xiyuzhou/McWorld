@@ -4,11 +4,11 @@ var UnminedMapProperties = {
     maxZoom: 4,
     defaultZoom: 0,
     imageFormat: "jpeg",
-    minRegionX: -4,
-    minRegionZ: -6,
-    maxRegionX: 6,
-    maxRegionZ: 12,
-    worldName: "袭天下的生存 (世界1)",
+    minRegionX: -13,
+    minRegionZ: -18,
+    maxRegionX: 15,
+    maxRegionZ: 9,
+    worldName: "硬核生存",
     background: "",
     markers: new Array()
 }
